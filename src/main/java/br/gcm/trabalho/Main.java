@@ -7,6 +7,6 @@ public class Main {
 	}
 
 	private static String imprime() {
-		return "Imprime linha";
+		return "Trabalho GCM";
 	}
 }
